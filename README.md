@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Trinh Van Quoc</h1>
 <h3 align="center">A developer from VietNam</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quoc260520&label=Profile%20views&color=0e75b6&style=flat" alt="quoc260520" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quoc260520" alt="quoc260520" /></a> </p>
 
 - 🌱 I’m currently learning **Thuy Loi University**
 
