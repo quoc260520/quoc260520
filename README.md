@@ -1,6 +1,6 @@
 <h1 align = "center"> Xin chào 👋, tôi là Trịnh Văn Quốc </h1>
 <h3 align = "center"> Một nhà phát triển giao diện người dùng đam mê đến từ Việt Nam </h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=quoc260520&label=Profile%20views&color=0e75b6&style=flat" alt = "quoc260520" /> </p>
 
