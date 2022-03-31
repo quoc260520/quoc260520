@@ -1,6 +1,6 @@
-<div>
 <h1 align="center">Hi 👋, I'm Trinh Van Quoc</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
+<div>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quoc260520&label=Profile%20views&color=0e75b6&style=flat" alt="quoc260520" /> </p>
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Thuy Loi University**
 
 - 📫 How to reach me **vanquoc26520@gmail.com**
-<div>
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/quoctv2605" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trinh van quoc" height="30" width="40" /></a>
